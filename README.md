@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @dima.
-- I’m from Ukraine 🇺🇦
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning HTML/CSS
 - 📫 How to reach me: inst.:d.murzaa; telegram: @dima_murza.
 
 <!---
